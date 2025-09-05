@@ -37,6 +37,5 @@ int main(){
     }
     
     cout<<ats;
-
     return 0;
 }
